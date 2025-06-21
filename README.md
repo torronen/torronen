@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @torronen
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Diffusers
-- 💞️ I’m looking to collaborate on ML and AI projects
+- 👀 Finally switched to Github from Azure Devops
 - 📫 How to reach me antti.torronen@kwork.fi
 
 <!---
